@@ -1,0 +1,77 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("flaticon6c93.ttf?081ce66c388b235ae139b146f7a6104b") format("truetype"),
+url("flaticon6c93.woff?081ce66c388b235ae139b146f7a6104b") format("woff"),
+url("flaticon6c93.woff2?081ce66c388b235ae139b146f7a6104b") format("woff2"),
+url("flaticon6c93.eot?081ce66c388b235ae139b146f7a6104b#iefix") format("embedded-opentype"),
+url("flaticon6c93.svg?081ce66c388b235ae139b146f7a6104b#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-tools:before {
+    content: "\f101";
+}
+.flaticon-wrench:before {
+    content: "\f102";
+}
+.flaticon-repair:before {
+    content: "\f103";
+}
+.flaticon-settings:before {
+    content: "\f104";
+}
+.flaticon-mechanic:before {
+    content: "\f105";
+}
+.flaticon-car-repair:before {
+    content: "\f106";
+}
+.flaticon-maintenance:before {
+    content: "\f107";
+}
+.flaticon-car-repair-1:before {
+    content: "\f108";
+}
+.flaticon-car-repair-2:before {
+    content: "\f109";
+}
+.flaticon-body-repair:before {
+    content: "\f10a";
+}
+.flaticon-car-rental:before {
+    content: "\f10b";
+}
+.flaticon-maintenance-1:before {
+    content: "\f10c";
+}
+.flaticon-tire:before {
+    content: "\f10d";
+}
+.flaticon-car-repair-3:before {
+    content: "\f10e";
+}
+.flaticon-maintenance-2:before {
+    content: "\f10f";
+}
+.flaticon-car-repair-4:before {
+    content: "\f110";
+}
+.flaticon-car-painting:before {
+    content: "\f111";
+}
+.flaticon-car-service:before {
+    content: "\f112";
+}
+.flaticon-repair-1:before {
+    content: "\f113";
+}
